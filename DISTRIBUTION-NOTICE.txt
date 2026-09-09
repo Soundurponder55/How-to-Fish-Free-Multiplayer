@@ -1,0 +1,8 @@
+How to Fish - Distribution Notice
+
+The game and the materials included in this repository are distributed with permission from the developers.
+
+This notice is provided as a project statement. It is not a replacement for a separate license or a written distribution agreement from the developers.
+
+Game version:
+v1.2.1

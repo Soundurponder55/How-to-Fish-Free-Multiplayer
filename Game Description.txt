@@ -1,0 +1,27 @@
+About the Game
+
+How to Fish is a physics-based fishing simulator for 1–4 players. You set out on a boat, but suddenly crash into a small island. To find your way home, you will have to learn how to fish.
+
+At the beginning of the game, you have no weapons or equipment. Catch fish, sell your catch, earn money, and buy everything you need for the journey ahead. Complete quests and fight bosses to unlock new islands. Each island is home to more dangerous creatures and better equipment.
+
+Try to catch rare varieties of every fish, use different tricks to earn more money, and take a chance on gambling.
+
+System Requirements
+
+Minimum:
+64-bit processor and operating system
+OS: Windows 10 or later
+Processor: Intel Core i5-5257U, AMD Ryzen 3 1200, or equivalent
+Memory: 8 GB RAM
+Graphics: GeForce GTX 1050, AMD RX 460, or equivalent
+Network: Broadband Internet connection
+Storage: 1 GB available space
+
+Recommended:
+64-bit processor and operating system
+
+The game supports online co-op. Update 1.0.4 added support for lobbies of up to 8 players, while update 1.0.5 introduced private lobbies and the option to change the session type.
+
+Update 1.0.6 improved save validation, and update 1.0.9 added Steam connection diagnostics to the main menu.
+
+This game is a free copy of the original, approved for distribution.
